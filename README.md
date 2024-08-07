@@ -39,42 +39,42 @@ This course provides a comprehensive introduction to linear algebra, covering to
 
 This section focuses on implementing neural networks using pure mathematics and fundamental coding techniques. It is an excellent way to understand the inner workings of neural networks.
 
-### [Building Neural Networks from Scratch Playlist](https://youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu&si=NAoF5UWD4ITKgVW4)
+### [Building Neural Networks from Scratch Playlist](https://youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu&si=IJo9yttJSJxVlDJr)
 Explore a series of videos detailing the construction of neural networks from scratch, explaining the math and code behind each step. Here’s a breakdown of the key topics covered:
 
-1. **[Coding a Single Neuron and a Layer](https://lnkd.in/gfSRkuxt):** An introduction to coding a single neuron and a neural network layer from scratch.
+1. **Coding a Single Neuron and a Layer:** An introduction to coding a single neuron and a neural network layer from scratch.
    
-2. **[The Beauty of NumPy and the Dot Product](https://lnkd.in/grBjwTu4):** Learn how NumPy and the dot product simplify coding neurons and layers.
+2. **The Beauty of NumPy and the Dot Product:** Learn how NumPy and the dot product simplify coding neurons and layers.
    
-3. **[Coding Multiple Neural Network Layers](https://lnkd.in/gSwmEnZP):** Understand how to stack multiple layers in a neural network.
+3. **Coding Multiple Neural Network Layers:** Understand how to stack multiple layers in a neural network.
    
-4. **[Implementing the Dense Layer Class in Python](https://lnkd.in/gSEeZzTZ):** Discover how to implement a dense layer class in Python.
+4. **Implementing the Dense Layer Class in Python:** Discover how to implement a dense layer class in Python.
    
-5. **[Broadcasting and Array Summation in Python](https://lnkd.in/gt9u5hca):** Explore broadcasting and array summation techniques.
+5. **Broadcasting and Array Summation in Python:** Explore broadcasting and array summation techniques.
    
-6. **[Coding Neural Network Activation Functions from Scratch](https://lnkd.in/gxav-8-2):** Implement activation functions like ReLU, sigmoid, and others.
+6. **Coding Neural Network Activation Functions from Scratch:** Implement activation functions like ReLU, sigmoid, and others.
    
-7. **[Coding One Neural Network Forward Pass](https://lnkd.in/geyZAvAn):** Understand the process of forward propagation in neural networks.
+7. **Coding One Neural Network Forward Pass:** Understand the process of forward propagation in neural networks.
    
-8. **[Coding the Cross Entropy Loss in Python (from Scratch)](https://lnkd.in/gbgyQbJi):** Implement cross-entropy loss for neural network training.
+8. **Coding the Cross Entropy Loss in Python (from Scratch):** Implement cross-entropy loss for neural network training.
    
-9. **[Introduction to Optimization in Neural Network Training](https://lnkd.in/gU2ZyXNq):** Learn about optimization techniques like gradient descent.
+9. **Introduction to Optimization in Neural Network Training:** Learn about optimization techniques like gradient descent.
    
-10. **[Partial Derivatives and Gradient in Neural Networks](https://lnkd.in/gmb4TgUC):** Explore the role of partial derivatives and gradients.
+10. **Partial Derivatives and Gradient in Neural Networks:** Explore the role of partial derivatives and gradients.
    
-11. **[Understand Chain Rule - The Backbone of Neural Networks](https://lnkd.in/gpWQaB2s):** Dive deep into the chain rule, essential for backpropagation.
+11. **Understand Chain Rule - The Backbone of Neural Networks:** Dive deep into the chain rule, essential for backpropagation.
    
-12. **[Backpropagation from Scratch on a Single Neuron](https://lnkd.in/gPXNvxwG):** Implement backpropagation on a single neuron.
+12. **Backpropagation from Scratch on a Single Neuron:** Implement backpropagation on a single neuron.
    
-13. **[Backpropagation Through an Entire Layer of Neurons - from Scratch](https://lnkd.in/gpTcyz3G):** Extend backpropagation to an entire layer of neurons.
+13. **Backpropagation Through an Entire Layer of Neurons - from Scratch:** Extend backpropagation to an entire layer of neurons.
    
-14. **[Role of Matrices in Backpropagation](https://lnkd.in/gME4Ey53):** Understand how matrices are used in backpropagation.
+14. **Role of Matrices in Backpropagation:** Understand how matrices are used in backpropagation.
    
-15. **[Finding Derivatives of Inputs in Backpropagation and Why We Need Them](https://lnkd.in/gyDsmmkS):** Learn the importance of input derivatives.
+15. **Finding Derivatives of Inputs in Backpropagation and Why We Need Them:** Learn the importance of input derivatives.
    
-16. **[Coding Backpropagation Building Blocks in Python](https://lnkd.in/gA75tWfz):** Implement backpropagation components in Python.
+16. **Coding Backpropagation Building Blocks in Python:** Implement backpropagation components in Python.
    
-17. **[Backpropagation on the ReLU Activation Class](https://lnkd.in/gaTgYZGa):** Apply backpropagation to the ReLU activation function.
+17. **Backpropagation on the ReLU Activation Class:** Apply backpropagation to the ReLU activation function.
 
 ---
 
