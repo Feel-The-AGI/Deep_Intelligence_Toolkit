@@ -10,7 +10,7 @@
 4. [Machine Learning and Deep Learning Playlists](#machine-learning-and-deep-learning-playlists)
 5. [Essential Books](#essential-books)
 6. [Short Projects with PyTorch](#short-projects-with-pytorch)
-7. [Ilya Sutskever's Reading List](#ilyas-30u30) Coming Tonight
+7. [Ilya Sutskever's Reading List](#ilyas-30u30) NEW!
 ---
 
 ## Python Fundamentals
@@ -132,30 +132,152 @@ Aimed at more experienced users, this book delves into advanced PyTorch features
 
 ---
 
-## Short Projects with PyTorch
+### Short Projects with PyTorch
 
 These guided projects provide hands-on experience with PyTorch, helping you apply machine learning and deep learning techniques to real-world problems.
 
-### 1. [Aerial Image Segmentation with PyTorch](https://www.coursera.org/projects/aerial-image-segmentation-with-pytorch)
+#### 1. [Aerial Image Segmentation with PyTorch](https://www.coursera.org/projects/aerial-image-segmentation-with-pytorch)
 This guided project helps you understand the Massachusetts Roads Segmentation Dataset, apply segmentation domain augmentations, and use a pre-trained convolutional neural network for segmentation tasks.
 
-### 2. [Classify Radio Signals with PyTorch](https://www.coursera.org/projects/classify-radio-signals-with-pytorch)
+#### 2. [Classify Radio Signals with PyTorch](https://www.coursera.org/projects/classify-radio-signals-with-pytorch)
 This project teaches you how to classify radio signals using PyTorch, focusing on loading datasets, building models, and training them for classification tasks.
 
-### 3. [Deep Learning with PyTorch: Generative Adversarial Network (GAN)](https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network)
+#### 3. [Deep Learning with PyTorch: Generative Adversarial Network (GAN)](https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network)
 This course introduces you to GANs, where you'll learn to generate new data from existing datasets using PyTorch. It covers key GAN concepts like discriminator and generator networks.
 
-### 4. [Deep Learning with PyTorch: GradCAM](https://www.coursera.org/projects/deep-learning-with-pytorch-gradcam)
+#### 4. [Deep Learning with PyTorch: GradCAM](https://www.coursera.org/projects/deep-learning-with-pytorch-gradcam)
 In this project, you'll explore GradCAM, a visualization technique used to interpret model predictions. The course guides you through using PyTorch to apply GradCAM for visualizing class activation maps.
 
-### 5. [Deep Learning with PyTorch: Image Segmentation](https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation)
+#### 5. [Deep Learning with PyTorch: Image Segmentation](https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation)
 This course covers image segmentation techniques using PyTorch, teaching you to build and train segmentation models with state-of-the-art architectures like U-Net.
 
-### 6. [Deep Learning with PyTorch: Object Localization](https://www.coursera.org/projects/deep-learning-with-pytorch--object-localization)
+#### 6. [Deep Learning with PyTorch: Object Localization](https://www.coursera.org/projects/deep-learning-with-pytorch--object-localization)
 Learn object localization techniques using PyTorch, focusing on identifying and marking object locations in images.
 
-### 7. [Deep Learning with PyTorch: Siamese Network](https://www.coursera.org/projects/deep-learning-with-pytorch-siamese-network)
+#### 7. [Deep Learning with PyTorch: Siamese Network](https://www.coursera.org/projects/deep-learning-with-pytorch-siamese-network)
 This project covers the development of Siamese Networks, commonly used for tasks like facial recognition and image similarity comparisons, using PyTorch.
 
-### 8. [Facial Expression Recognition with PyTorch](https://www.coursera.org/projects/facial-expression-recognition-with-pytorch)
+#### 8. [Facial Expression Recognition with PyTorch](https://www.coursera.org/projects/facial-expression-recognition-with-pytorch)
 In this project, you will learn to build models for recognizing facial expressions using PyTorch, a crucial skill for applications in emotion detection and human-computer interaction.
+
+---
+
+## Ilya's 30u30 Reading List
+
+### Core Neural Network Innovations
+
+This section covers some of the most influential neural network architectures and innovations that have shaped the field. These papers are foundational for understanding the progression of neural networks and their applications.
+
+#### 1. [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329)
+Enhancement to LSTM units for better overfitting prevention.
+
+#### 2. [Pointer Networks](https://arxiv.org/abs/1506.03134)
+Novel architecture for solving problems with discrete token outputs.
+
+#### 3. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+Improvements for training very deep networks through residual learning.
+
+#### 4. [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
+Enhancements to deep residual networks through identity mappings.
+
+#### 5. [Neural Turing Machines](https://arxiv.org/abs/1512.02595)
+Combining neural networks with external memory resources for enhanced algorithmic tasks.
+
+#### 6. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+Introducing the Transformer architecture solely based on attention mechanisms.
+
+---
+
+### Specialized Neural Network Applications
+
+This section includes papers that discuss the application of neural networks in various specialized fields. These innovations demonstrate the versatility and power of neural networks in tackling complex problems across different domains.
+
+#### 1. [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
+A convolutional network module for better semantic segmentation.
+
+#### 2. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+A model improving translation by learning to align and translate concurrently.
+
+#### 3. [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
+A framework for learning on molecular graphs for quantum chemistry.
+
+#### 4. [Relational RNNs](https://arxiv.org/abs/1806.01822)
+Enhancement to standard memory architectures integrating relational reasoning capabilities.
+
+#### 5. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595)
+Deep learning system for speech recognition.
+
+#### 6. [ImageNet Classification with Deep CNNs](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+Convolutional neural network for classifying large-scale image data.
+
+#### 7. [Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731)
+Combines VAEs and autoregressive models for improved image synthesis.
+
+#### 8. [A Simple NN Module for Relational Reasoning](https://arxiv.org/abs/1706.01427)
+A neural module designed to improve relational reasoning in AI tasks.
+
+---
+
+### Theoretical Insights and Principled Approaches
+
+This section offers papers that delve into the theoretical aspects of machine learning, exploring foundational principles and scaling laws that guide the development of neural networks and other models.
+
+#### 1. [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/abs/1511.06391)
+Investigating the impact of data order on model performance.
+
+#### 2. [Scaling Laws for Neural LMs](https://arxiv.org/abs/2001.08361)
+Empirical study on the scaling laws of language model performance.
+
+#### 3. [A Tutorial Introduction to the Minimum Description Length Principle](https://arxiv.org/abs/math/0406077)
+Tutorial on the MDL principle in model selection and inference.
+
+#### 4. [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)
+Method to improve neural network generalization by minimizing weight description length.
+
+#### 5. [Machine Super Intelligence Dissertation](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf)
+Study on optimal behavior of agents in computable environments.
+
+#### 6. [Kolmogorov Complexity](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf)
+Comprehensive exploration of Kolmogorov complexity, discussing its mathematical foundations and implications for fields like information theory and computational complexity.
+
+---
+
+### Interdisciplinary and Conceptual Studies
+
+Papers in this section explore the intersection of neural networks with other scientific fields, offering insights that extend beyond traditional AI research.
+
+#### 1. [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton](https://arxiv.org/abs/1405.6903)
+Study on complexity in closed systems using cellular automata.
+
+---
+
+### Efficiency and Scalability Techniques
+
+These papers discuss methods to improve the efficiency and scalability of neural networks, enabling the training and deployment of larger models on more complex tasks.
+
+#### 1. [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/abs/1811.06965)
+A method for efficient training of large-scale neural networks.
+
+---
+
+### Educational Materials and Tutorials
+
+This section is dedicated to resources that offer in-depth tutorials and educational content to help you understand and implement the concepts discussed in the other sections.
+
+#### 1. [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io)
+Stanford University course on CNNs for visual recognition.
+
+#### 2. [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+Annotated, line-by-line implementation of the Transformer paper.
+
+#### 3. [The First Law of Complexodynamics](https://scottaaronson.blog)
+Blog post discussing the measure of system complexity in computational terms.
+
+#### 4. [The Unreasonable Effectiveness of RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness)
+Blog post demonstrating the versatility of RNNs.
+
+#### 5. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs)
+Blog post providing a detailed explanation of LSTM networks.
+
+#### 6. [Ilya Sutskever's Reading List (Playlist)](https://youtube.com/playlist?list=PL8hTotro6aVGtPgLJ_TMKe8C8MDhHBZ4W&si=l2Ka7zI8vc1iOiRC)
+A playlist covering essential papers from Ilya Sutskever's reading list.
