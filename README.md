@@ -10,7 +10,8 @@
 4. [Machine Learning and Deep Learning Playlists](#machine-learning-and-deep-learning-playlists)
 5. [Essential Books](#essential-books)
 6. [Short Projects with PyTorch](#short-projects-with-pytorch)
-7. [Ilya Sutskever's Reading List](#ilyas-30u30) NEW!
+7. [Ilya Sutskever's Reading List](#ilyas-30u30-reading-list) NEW!
+
 ---
 
 ## Python Fundamentals
