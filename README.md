@@ -164,6 +164,7 @@ In this project, you will learn to build models for recognizing facial expressio
 ---
 
 ## Ilya's 30u30 Reading List
+> "If you really learn all of these, you’ll know 90% of what matters today." - Ilya Sutskever 🧠
 
 ### Core Neural Network Innovations
 
