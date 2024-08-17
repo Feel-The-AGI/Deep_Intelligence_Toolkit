@@ -111,7 +111,7 @@ These books offer in-depth coverage of various topics in machine learning, deep 
 This book is dedicated to teaching neural networks from the ground up. It’s perfect if you want to understand the underlying math and concepts before moving into frameworks.
 
 ### 2. [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) - $90
-This is a classic book by Sutton and Barto, offering a comprehensive introduction to reinforcement learning. It's a must-read if you're delving into RL, covering both theoretical foundations and practical algorithms.
+This is a classic book by Sutton and Barto, offering a comprehensive introduction to reinforcement learning. It's a must-read if you're into RL, covering math, theoretical foundations and practical algorithms.
 
 ### 3. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.bishopbook.com/) - $70
 This book provides a solid foundation in pattern recognition and machine learning, making it a great reference for theoretical insights and practical applications.
@@ -129,7 +129,7 @@ This book offers a comprehensive look at computer vision applications using PyTo
 This book is designed for those new to deep learning, focusing on the fastai library and PyTorch, providing practical examples without requiring extensive mathematical background.
 
 ### 8. [Mastering PyTorch: Build powerful neural network architectures using advanced PyTorch 2.0 features and techniques](https://www.amazon.com/Mastering-PyTorch-powerful-learning-architectures/dp/1801074305) - $40
-Aimed at more experienced users, this book delves into advanced PyTorch features and techniques, helping you build powerful and sophisticated neural network architectures.
+Aimed at more experienced users, this book covers advanced PyTorch features and techniques, helping you build powerful and sophisticated neural network architectures.
 
 ---
 
