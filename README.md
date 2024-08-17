@@ -108,7 +108,7 @@ Explore the fundamentals of reinforcement learning through this playlist, which 
 These books offer in-depth coverage of various topics in machine learning, deep learning, and artificial intelligence, providing both theoretical foundations and practical implementations.
 
 ### 1. [Neural Networks from Scratch](https://nnfs.io/) - $95
-This site is dedicated to teaching neural networks from the ground up. It’s perfect if you want to understand the underlying math and concepts before diving into frameworks.
+This book is dedicated to teaching neural networks from the ground up. It’s perfect if you want to understand the underlying math and concepts before moving into frameworks.
 
 ### 2. [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) - $90
 This is a classic book by Sutton and Barto, offering a comprehensive introduction to reinforcement learning. It's a must-read if you're delving into RL, covering both theoretical foundations and practical algorithms.
